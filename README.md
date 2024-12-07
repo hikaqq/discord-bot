@@ -1,1 +1,1 @@
-# panikabot
+# discord-bot
